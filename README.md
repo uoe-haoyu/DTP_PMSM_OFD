@@ -1,7 +1,7 @@
 # PINN_DTP_PMSM_OFD
 
 This repository contains scripts for testing and evaluating the trained model.  
-The dataset and pre-trained models are stored in **Google Drive**:https://drive.google.com/file/d/1uFNa5oo6fiM_YRFZZBkESjOOslQZFZr6/view?usp=drive_link.  
+The dataset and pre-trained models are stored in **Google Drive**: https://drive.google.com/file/d/1uFNa5oo6fiM_YRFZZBkESjOOslQZFZr6/view?usp=drive_link.  
 
 ## Running Tests
 
