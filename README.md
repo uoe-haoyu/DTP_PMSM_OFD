@@ -15,4 +15,4 @@ For uncertainty analysis, execute:
 ```bash
 python test_uncertainty_noload.py
 ```
-Ensure all dependencies are installed, and that the dataset and model checkpoints are properly linked before execution.
+Ensure that all dependencies listed in Requirements.txt are installed and that the dataset and model checkpoints are properly linked before execution.
